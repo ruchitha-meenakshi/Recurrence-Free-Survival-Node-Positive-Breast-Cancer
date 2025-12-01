@@ -1,0 +1,96 @@
+@article{Schmoor1996,
+  author = {Schmoor, Claudia and Olschewski, Mark and Schumacher, Martin},
+  title = {Randomized and non-randomized patients in clinical trials: experiences with comprehensive cohort studies},
+  journal = {Stat Med},
+  volume = {15},
+  number = {3},
+  pages = {263--271},
+  year = {1996},
+  month = {feb},
+  day = {15},
+  doi = {10.1002/(SICI)1097-0258(19960215)15:3<263::AID-SIM165>3.0.CO;2-K},
+  PMID = {8643884}
+}
+
+
+@article{Schumacher1994,
+  author = {Schumacher, Martin and Bastert, Gunther and Bojar, Hans and Hübner, Klaus and Olschewski, Mark and Sauerbrei, Willi and Schmoor, Claudia and Beyerle, Christian and Neumann, Robert L. and Rauschecker, Hans F.},
+  title = {Randomized 2 x 2 trial evaluating hormonal treatment and the duration of chemotherapy in node-positive breast cancer patients. German Breast Cancer Study Group},
+  journal = {J Clin Oncol},
+  volume = {12},
+  number = {10},
+  pages = {2086--2093},
+  year = {1994},
+  month = {oct},
+  doi = {10.1200/JCO.1994.12.10.2086},
+  PMID = {7931478}
+}
+
+
+@article{Schober2018,
+  author = {Schober, Patrick and Vetter, Thomas R.},
+  title = {Survival Analysis and Interpretation of Time-to-Event Data: The Tortoise and the Hare},
+  journal = {Anesthesia \& Analgesia},
+  volume = {127},
+  number = {3},
+  pages = {792--798},
+  year = {2018},
+  month = {sep},
+  doi = {10.1213/ANE.0000000000003653}
+}
+
+
+@book{Carpenter2013,
+  author = {Carpenter, James R.},
+  title = {Multiple Imputation and its Application},
+  series = {Statistics in Practice},
+  publisher = {Wiley},
+  year = {2013},
+  month = {feb},
+  isbn = {978-0470740521},
+  pages = {79},
+  edition = {Illustrated},
+  url = {https://www.wiley.com/en-us/Multiple+Imputation+and+its+Application-p-9780470740521}
+}
+
+
+@book{LittleRubin2002,
+  author = {Little, Roderick J. A. and Rubin, Donald B.},
+  title = {Statistical Analysis with Missing Data},
+  series = {Wiley Series in Probability and Statistics},
+  publisher = {Wiley},
+  year = {2002},
+  month = {aug},
+  isbn = {978-0471183860},
+  url = {https://www.wiley.com/en-us/Statistical+Analysis+with+Missing+Data%2C+2nd+Edition-p-9780471183860}
+}
+
+
+@article{hess1995graphical,
+  title={Graphical methods for assessing violations of the proportional hazards assumption in Cox regression},
+  author={Hess, K. R.},
+  journal={Statistics in Medicine},
+  volume={14},
+  number={15},
+  pages={1707--1723},
+  year={1995},
+  month={Aug},
+  publisher={Wiley},
+  doi={10.1002/sim.4780141510},
+  PMID={7481205}
+}
+
+@article{heinze2018variable,
+title={Variable selection--a review and recommendations for the practicing statistician},
+author={Heinze, Georg and Wallisch, Christine and Dunkler, Daniela},
+journal={Biometrical Journal. Biometrische Zeitschrift},
+volume={60},
+number={3},
+pages={431--449},
+year={2018},
+publisher={Wiley Online Library},
+doi={10.1002/bimj.201700067},
+pmid={29292533},
+pmcid={PMC5969114}
+}
+
